@@ -1,4 +1,4 @@
-# Simple Todolist Backend
+# Simple Todolist Frontend
 
 These are the repositories for frontend of todolist app. Create with reactjs
 
